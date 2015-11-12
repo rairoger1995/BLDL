@@ -5,6 +5,6 @@
 			$this->from('table');
 			$this->FetchRecords();
 
-			
+			return $data;
 		}
 	}
